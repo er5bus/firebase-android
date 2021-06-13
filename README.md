@@ -17,7 +17,7 @@ The application to be developed must contain this:
 ## Screenshots
 <table width="100%">
 <tr>
-  <th width="33.33%"><img src="https://github.com/er5bus/firebase-android/blob/main/screenshot/create-post.png?raw=true"></th>
+  <th width="33.33%"><img src="https://github.com/er5bus/firebase-android/blob/main/screenshot/signup.png?raw=true"></th>
   <th width="33.33%"><img src="https://github.com/er5bus/firebase-android/blob/main/screenshot/create-post.png?raw=true"></th>
   <th width="33.33%"><img src="https://github.com/er5bus/firebase-android/blob/main/screenshot/my-posts.png?raw=true"></th>
 <tr>
