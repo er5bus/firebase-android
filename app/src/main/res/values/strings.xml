@@ -1,0 +1,19 @@
+<resources>
+	<string name="app_name">Android DS (R&amp;K)</string>
+	<string name="hint_password">Password</string>
+	<string name="hint_email">Email</string>
+	<string name="hint_title">Title</string>
+	<string name="hint_body">Write your post…</string>
+	<string name="hint_username">Username…</string>
+	<string name="menu_logout">Log out</string>
+	<string name="post">Post</string>
+	<string name="required">Required</string>
+	<string name="sign_in">Sign In</string>
+	<string name="sign_up">Sign Up</string>
+
+	<string-array name="headings">
+		<item>Recent</item>
+		<item>My Posts</item>
+		<item>My Top Posts</item>
+	</string-array>
+</resources>

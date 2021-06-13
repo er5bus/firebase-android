@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69501125762",
+    "project_id": "tekup-realtime-chat",
+    "storage_bucket": "tekup-realtime-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69501125762:android:8b48c6c1694e0d86b9a09b",
+        "android_client_info": {
+          "package_name": "com.tekup.ds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69501125762-cj2g4htli82838qkm8f64h036n8redep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcO1pKyD2aN6Xlmpk-redJntajqt1oaEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69501125762-cj2g4htli82838qkm8f64h036n8redep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
